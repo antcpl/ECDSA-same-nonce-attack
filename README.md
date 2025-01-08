@@ -41,7 +41,3 @@ IN DEPTH MATHEMATICAL EXPLANATION
 -------------------------
 To be completed. 
 
-AUTHOR 
--------------------------
-
-Antoine CHAPEL # ECDSA-same-nonce-attack
